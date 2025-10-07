@@ -31,11 +31,12 @@ public class EscribirAleatorio {
         }
     }
 }
-![[Pasted image 20251006201541.png]]
+![texto](../Imagenes/img17.png)
 
-![[Pasted image 20251006201622.png]]
+![texto](../Imagenes/img18.png)
 
-![[Pasted image 20251006201651.png]]
+![texto](../Imagenes/img19.png)
+
 ## Lectura desde una posición específica
 
 Podemos acceder directamente a cualquier posición del archivo utilizando `seek(pos)`.
@@ -61,8 +62,10 @@ public class LeerAleatorio {
         }
     }
 }
-![[Pasted image 20251006201924.png]]
-![[Pasted image 20251006201940.png]]
+![texto](../Imagenes/img20.png)
+
+![texto](../Imagenes/img21.png)
+
 ## Consideraciones importantes
 
 - `RandomAccessFile` no utiliza buffering, por lo que puede ser más lento para operaciones repetidas.

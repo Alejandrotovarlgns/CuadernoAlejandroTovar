@@ -80,7 +80,7 @@ public class CrearArchivoNIO {
         }
     }
 }
-![[Pasted image 20251006203333.png]]
+![texto](../Imagenes/img22.png)
 
 ![[Pasted image 20251006203353.png]]
 ## Ejemplo: lectura y escritura con Files y UTF-8
