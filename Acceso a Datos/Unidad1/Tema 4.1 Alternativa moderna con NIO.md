@@ -82,7 +82,8 @@ public class CrearArchivoNIO {
 }
 ![texto](../Imagenes/img22.png)
 
-![[Pasted image 20251006203353.png]]
+![texto](../Imagenes/img23.png)
+
 ## Ejemplo: lectura y escritura con Files y UTF-8
 
 import java.nio.file.*;
@@ -109,7 +110,8 @@ public class LecturaEscrituraNIO {
         }
     }
 }
-![[Pasted image 20251006204037.png]]
+![texto](../Imagenes/img24.png)
+
 ## Ejemplo con canal y búfer
 
 import java.nio.file.*;
@@ -128,9 +130,9 @@ public class NIOExample {
         }
     }
 }
-![[Pasted image 20251006204828.png]]
+![texto](../Imagenes/img25.png)
 
-![[Pasted image 20251006204859.png]]
+![texto](../Imagenes/img26.png)
 
 ## Ventajas de NIO sobre File
 

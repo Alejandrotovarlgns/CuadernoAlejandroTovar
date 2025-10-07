@@ -45,9 +45,10 @@ class Persona implements Serializable {
         this.edad = edad;
     }
 }
-![[Pasted image 20251006205448.png]]
+![texto](../Imagenes/img27.png)
 
-![[Pasted image 20251006205509.png]]
+![[img28.png]]
+
 ## Lectura de objetos (deserialización)
 
 import java.io.*;
