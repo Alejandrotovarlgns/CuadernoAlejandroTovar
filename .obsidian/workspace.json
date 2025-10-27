@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso a Datos/Unidad1/Tema 5 Ficheros Binarios y Serialización de Objetos.md",
+                "file": "Acceso a Datos/Unidad1/Actividad Cuenta bancaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 5 Ficheros Binarios y Serialización de Objetos"
+              "title": "Actividad Cuenta bancaria"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +180,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6120db2aaea1ab70",
+  "active": "98dc63b4c4fe59b4",
   "lastOpenFiles": [
-    "Acceso a Datos/Unidad1/Tema 4.1 Alternativa moderna con NIO.md",
-    "Acceso a Datos/Unidad1/Tema 4 Acceso Aleatorio a Ficheros.md",
-    "Acceso a Datos/Imagenes/img17.png",
+    "Acceso a Datos/Unidad1/Tema 3 Lectura y Escritura Secuencial de Ficheros.md",
+    "Acceso a Datos/Unidad1/Tema 2 Gestión de Ficheros y Directorios con la Clase File.md",
+    "Acceso a Datos/Unidad1/Actividad Cuenta bancaria.md",
+    "Acceso a Datos/Unidad1/Tema 7.2 XPath en profundidad.md",
+    "Acceso a Datos/Unidad1/Tema 7.1 Profundización en JAXP (Java API for XML Processing).md",
+    "Acceso a Datos/Unidad1/Tema 7 JAXP, XPath y Manipulación Avanzada de XML.md",
+    "Acceso a Datos/Unidad1/Tema 6.2 Procesamiento XML con SAX (Simple API for XML).md",
+    "Pasted image 20251027091117.png",
+    "Acceso a Datos/Unidad1/Tema 6 Lectura y Escritura de Ficheros XML.md",
+    "Acceso a Datos/Unidad1/Tema 5 Ficheros Binarios y Serialización de Objetos.md",
     "Acceso a Datos/Unidad1/1.1 Introducción a la Persistencia en Ficheros.md",
+    "Acceso a Datos/Unidad1/Tema 4 Acceso Aleatorio a Ficheros.md",
+    "Acceso a Datos/Unidad1/Tema 4.1 Alternativa moderna con NIO.md",
     "Acceso a Datos/Unidad1/1.0 Persistencia en Ficheros.md",
+    "Acceso a Datos/Imagenes/img17.png",
     "Acceso a Datos/Imagenes/img4.png",
     "Acceso a Datos/Imagenes/img1.png",
     "Acceso a Datos/Imagenes",

@@ -47,7 +47,7 @@ class Persona implements Serializable {
 }
 ![texto](../Imagenes/img27.png)
 
-![[img28.png]]
+![texto](../Imagenes/img28.png)
 
 ## Lectura de objetos (deserialización)
 
@@ -64,7 +64,8 @@ public class LeerObjeto {
         }
     }
 }
-![[Pasted image 20251006210526.png]]
+![texto](../Imagenes/img29.png)
+
 ## Ventajas de la serialización
 
 - Permite almacenar el estado completo de objetos complejos.
